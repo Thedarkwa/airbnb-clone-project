@@ -39,7 +39,7 @@ This project helps me strengthen my understanding of **HTML**, **CSS**, **JavaSc
 - Deploy the final app to **Vercel or Netlify** for public access.
 
 ---
-
+Project Roles and Responsibilities
 ## 🎨 Design Details
 
 A well-crafted user interface (UI) and user experience (UX) are central to the Airbnb Clone Project.  
