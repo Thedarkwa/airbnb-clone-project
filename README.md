@@ -98,6 +98,25 @@ The **Airbnb Clone Project** focuses on delivering a seamless booking experience
 - **User Trust & Confidence:**  
   Visual cues, confirmation messages, and consistent feedback throughout the booking flow reassure users that their actions are successful and secure.
 
+## 🧱 UI Component Patterns
+
+The Airbnb Clone Project follows a **component-based architecture** that promotes code reusability, scalability, and consistency throughout the user interface.  
+Each component serves a distinct purpose in enhancing user experience and maintaining design uniformity.
+
+### Core Components
+| Component | Description |
+|------------|-------------|
+| **🧭 Navbar** | Provides easy access to key sections such as Home, Explore, and Bookings. Remains visible across all pages for quick navigation. |
+| **🏠 Property Card** | Displays property information in a concise and visually appealing layout, including images, name, location, and price. Used across the Property Listing and Featured Sections. |
+| **📄 Footer** | Offers essential links, contact details, and social media handles, ensuring users can reach important information easily. |
+
+### Additional Reusable Components (Future Plans)
+- **Search Bar:** For filtering results by location, date, or price range.  
+- **Filter Panel:** Displays filter options dynamically for a smoother search experience.  
+- **Booking Form:** Handles user inputs for booking and payment.  
+- **Modal Popups:** For alerts, confirmations, or detailed views.  
+
+---
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
